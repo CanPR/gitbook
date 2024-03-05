@@ -118,3 +118,4 @@
     * [French Speaking Essential Non-Health Care Workers in Canada](process/other-visas-and-permits/french-speaking-essential-non-health-care-workers-in-canada.md)
     * [French Speaking International Graduates](process/other-visas-and-permits/french-speaking-international-graduates.md)
 * [How to Improve your CRS Score](how-to-improve-your-crs-score.md)
+* [✨ Trek - Immigration AI Assistant](trek-immigration-ai-assistant.md)
