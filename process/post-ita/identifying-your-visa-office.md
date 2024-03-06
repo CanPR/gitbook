@@ -26,3 +26,13 @@ Regards,
 ```
 
 You can copy and paste this email and fill in your own information as needed.&#x20;
+
+***
+
+<details>
+
+<summary>TIPS</summary>
+
+It is best to wait till you get to NA2 stage before making a request to identify your Visa Office.
+
+</details>

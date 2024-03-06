@@ -29,7 +29,7 @@
     * [After Recieving your ITA](process/post-ita/after-recieving-your-ita.md)
     * [Police Clearance Certificates (PCC)](process/post-ita/police-clearance-certificates-pcc.md)
     * [Medical Examination](process/post-ita/medical-examination.md)
-    * [Getting a Provident Fund (PF) Balance Statement - Indian Applicants](process/post-ita/getting-a-provident-fund-pf-balance-statement-indian-applicants.md)
+    * [Getting a Provident Fund (PF) Balance Statement - Indian Applicants](process/post-ita/getting-provident-fund-pf-balance-statement.md)
     * [Maintaining Travel History](process/post-ita/maintaining-travel-history.md)
     * [Letter of Explanation (LOE)](process/post-ita/letter-of-explanation-loe.md)
     * [Document Submission](process/post-ita/document-submission.md)
