@@ -10,7 +10,7 @@ description: Submitting your application
 
 [medical-examination.md](medical-examination.md "mention")
 
-[getting-provident-fund-pf-balance-statement.md](getting-provident-fund-pf-balance-statement.md "mention")
+[getting-a-provident-fund-pf-balance-statement-indian-applicants.md](getting-a-provident-fund-pf-balance-statement-indian-applicants.md "mention")
 
 [maintaining-travel-history.md](maintaining-travel-history.md "mention")
 
