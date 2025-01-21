@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CanPR](README.md)
+* [Newsletter](README.md)
 * [Get Started with Immigration](get-started-with-immigration.md)
 * [Our Services](our-services.md)
 * [Process](process/README.md)
