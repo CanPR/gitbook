@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Newsletter](README.md)
+* [Welcome](README.md)
 * [Get Started with Immigration](get-started-with-immigration.md)
 * [Our Services](our-services.md)
 * [Process](process/README.md)
@@ -119,3 +119,4 @@
     * [French Speaking International Graduates](process/other-visas-and-permits/french-speaking-international-graduates.md)
 * [How to Improve your CRS Score](how-to-improve-your-crs-score.md)
 * [✨ Trek - Immigration AI Assistant](trek-immigration-ai-assistant.md)
+* [Newsletter](newsletter.md)
